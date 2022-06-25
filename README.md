@@ -1,8 +1,8 @@
-Desafio para entregar (trabalho final do capítulo)
+**Desafio para entregar (trabalho final do capítulo)**
 
-Enunciado
+**Enunciado**
 
-Você deverá entregar um projeto Spring Boot 2.4.x ou superior contendo um CRUD completo de web services REST para acessar um recurso de clientes, contendo as cinco operações básicas aprendidas no capítulo:
+Você deverá entregar um projeto Spring Boot 2.4.x **ou superior** contendo um CRUD completo de web services REST para acessar um recurso de clientes, contendo as cinco operações básicas aprendidas no capítulo:
 
 - Busca paginada de recursos
 
